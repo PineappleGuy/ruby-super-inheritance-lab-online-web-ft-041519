@@ -1,11 +1,11 @@
 class Student
 
   def hello
-    "Hey there! I'm so excited to learn stuff."
+    "Hey there! I'm so excited to learn stuff.\n"
   end
 
   def raise_hand
-    "Pick me!"
+    "Pick me!\n"
   end
-  
+
 end
